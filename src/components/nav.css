@@ -3,3 +3,11 @@
   color: white;
   padding: 0.5em 0.5em 0.5em 0.5em;
 }
+
+.nav-detail {
+  background-color: #ec4c8a;
+  color: white;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  display: flex;
+  justify-content: space-between;
+}

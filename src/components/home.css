@@ -131,3 +131,11 @@ input {
 .detail-price {
   font-size: 4vh;
 }
+
+.back {
+  font-size: 4vh;
+  font-weight: 700;
+  text-decoration: none;
+  color: white;
+  float: left;
+}
