@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Crypto-House
 
-## Available Scripts
+>The system is able to display cryptocurrencies with thier detail information 
 
-In the project directory, you can run:
+## Built With
 
-### `npm start`
+- React
+- Redux
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Link]()
 
-### `npm test`
+## Video Presentation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Link]()
 
-### `npm run build`
+## Mockup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> Multi devices
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### To have a copy of this project running on your local machine, follow these commands:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Clone this repo to your local machine
+  - `git clone https://github.com/Agetuni/CryptoHouse `
+  - Open the folder "crypto_metrics
+    and run `npm install` to install all necesary scripts,
+  - Run from your termminal, `npm start` to open the project in your browser.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To get a local copy up and running follow these simple example steps.
 
-## Learn More
+### Prerequisites
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [NodeJS](https://nodejs.org/en/docs/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+> As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep.
 
-### Code Splitting
+- [Text Editor(VScode Recommended)](https://code.visualstudio.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+> Visual Studio Code is a free coding editor that helps you start coding quickly. Use it to code in any programming language, without switching editors.
 
-### Analyzing the Bundle Size
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Run from your terminal:**
 
-### Making a Progressive Web App
+- `npx create-react-app ./`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**cd into space-traveler-hub folder, then run from your terminal:**
 
-### Advanced Configuration
+- `npm start`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Usage
+
+**When the above commands aresuccessfully run, your browser should open on `localhost:3000`, if not, open your browser and load `127.0.0.1:3000` to see your default template loaded .**
+
+### Run tests
+
+> coming soon :smile:
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+> coming soon :smile:
 
-### `npm run build` fails to minify
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+👤 **Alazar Yilma**
+
+GitHub: [@Agetuni](https://github.com/Agetuni)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleazar-yilma-b614b6174/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Inspiration [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+- Microverse student community.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
