@@ -61,20 +61,13 @@ To get a local copy up and running follow these simple example steps.
 
 **When the above commands aresuccessfully run, your browser should open on `localhost:3000`, if not, open your browser and load `127.0.0.1:3000` to see your default template loaded .**
 
-### Run tests
-
-> coming soon :smile:
-
-### Deployment
-
-> coming soon :smile:
 
 ## Authors
 
 👤 **Alazar Yilma**
 
-GitHub: [@Agetuni](https://github.com/Agetuni)
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleazar-yilma-b614b6174/)
+- GitHub: [@Agetuni](https://github.com/Agetuni)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleazar-yilma-b614b6174/)
 
 ## 🤝 Contributing
 
